@@ -1,0 +1,32 @@
+h1{
+	color: purple;
+	background-color: beige;
+	display: flex;
+	position: center;
+	align-items: center;
+	justify-content: center;
+	font-size: 2em;
+	margin: auto;
+	border-radius: 50px;
+	font-family: "Comic Sans MS";
+}
+
+.image {
+	display: flex;
+	position: center;
+	align-items: center;
+	justify-content: center;
+}
+
+p {
+	font-family: "Berlin Sans FB";
+	font-size: large;
+	display: flex;
+	position: center;
+	align-items: center;
+	justify-content: center;
+}
+
+body {
+	background-color: aquamarine;
+}
