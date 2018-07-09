@@ -11,11 +11,13 @@ h1{
 	font-family: "Comic Sans MS";
 }
 
-.image {
-	display: flex;
+img.center {
+	display: block;
 	position: center;
 	align-items: center;
 	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 p {
